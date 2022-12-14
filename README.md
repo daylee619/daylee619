@@ -26,5 +26,9 @@ I'm currently studying Front-End development 👩‍💻 </h1><br/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">&nbsp
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=Trello&logoColor=white">&nbsp
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
-</div><br/>
+</div><br/><br/>
 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daylee619&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=daylee619&show_icons=true">
+</div>
