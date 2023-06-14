@@ -28,7 +28,7 @@ I'm currently studying Front-End development 👩‍💻 </h1><br/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
 </div><br/><br/>
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daylee619&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=daylee619&show_icons=true">
-</div>
+</div> -->
