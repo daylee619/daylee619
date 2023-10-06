@@ -1,5 +1,5 @@
 <h1 align="center">Hello I'm Dayeong 👋 <br/><br/>
-I'm currently studying Front-End development 👩‍💻 </h1><br/>
+I'm currently studying development 👩‍💻 </h1><br/>
 <div align="center">
 <a href="https://velog.io/@dylee95"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=black&link=https://velog.io/@dylee95"/>&nbsp</a> 
 <a href="https://github.com/daylee619?tab=repositories"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/daylee619?tab=repositories"/>&nbsp</a>
