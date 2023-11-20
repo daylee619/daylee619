@@ -1,8 +1,7 @@
 <h1 align="center">Welcome to Dayeong's GitHub 👋 </h1><br/><br/>
-<p>I'm currently studying development 👩‍💻 </p>
-
-
-
+<p><strong>I'm currently studying development 👩‍💻 </strong></p>
+<br>
+<br>
 ## 📚 Tech Stack 📚
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
@@ -36,7 +35,7 @@
 </div>
 <br/>
 <br/>
-<br/>
+
 
 ## 🌟 Cowork Tools 🌟
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
@@ -46,10 +45,9 @@
     <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=Trello&logoColor=white">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
 </div>
+<br/>
+<br/>
 
-<br>
-<br>
-<br>
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
