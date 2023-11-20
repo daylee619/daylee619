@@ -17,7 +17,6 @@ I'm currently studying development 👩‍💻 </h1><br/>
         <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
     </div>
-   
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
     <div>
@@ -28,7 +27,6 @@ I'm currently studying development 👩‍💻 </h1><br/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
         <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
     </div>
-    
    <!-- Version control -->
     <p><strong>Version control</strong></p>
     <div>
@@ -37,7 +35,6 @@ I'm currently studying development 👩‍💻 </h1><br/>
     </div>
 </div>
     
-
 
 ## 🌟 Cowork Tools 🌟
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
@@ -49,7 +46,7 @@ I'm currently studying development 👩‍💻 </h1><br/>
 </div>
 
 
-<div align="center">
+<div>
 <a href="https://velog.io/@dylee95"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=black&link=https://velog.io/@dylee95"/>&nbsp</a> 
 <a href="https://github.com/daylee619?tab=repositories"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/daylee619?tab=repositories"/>&nbsp</a>
 <a href="daylee619@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=daylee619@gmail.com"/></a>
