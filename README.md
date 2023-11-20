@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to Dayeong's GitHub 👋 </h1><br/><br/>
-<h3>I'm currently studying development 👩‍💻 </h3>
+<p>I'm currently studying development 👩‍💻 </p>
 
 
 
