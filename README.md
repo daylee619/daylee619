@@ -51,10 +51,11 @@
 <br>
 <br>
 
-<div>
-<a href="https://velog.io/@dylee95"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=black&link=https://velog.io/@dylee95"/>&nbsp</a> 
-<a href="https://github.com/daylee619?tab=repositories"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/daylee619?tab=repositories"/>&nbsp</a>
-<a href="daylee619@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=daylee619@gmail.com"/></a>
+## 📞 Contact 📞
+<div style="display:flex; flex-direction:row;">
+    <a href="https://velog.io/@dylee95"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=black&link=https://velog.io/@dylee95"/></a> 
+    <a href="https://github.com/daylee619?tab=repositories"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/daylee619?                tab=repositories"/></a>
+    <a href="daylee619@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=daylee619@gmail.com"/></a>
 </div>
 
 <!-- <div align="center">
