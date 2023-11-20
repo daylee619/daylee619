@@ -1,5 +1,5 @@
-<h1 align="center">Welcome to Dayeong's GitHub 👋 <br/><br/>
-I'm currently studying development 👩‍💻 </h1><br/>
+<h1 align="center">Welcome to Dayeong's GitHub 👋 </h1><br/><br/>
+<h3>I'm currently studying development 👩‍💻 </h3>
 
 
 
@@ -34,7 +34,9 @@ I'm currently studying development 👩‍💻 </h1><br/>
       <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
     </div>
 </div>
-    
+<br/>
+<br/>
+<br/>
 
 ## 🌟 Cowork Tools 🌟
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
@@ -45,6 +47,9 @@ I'm currently studying development 👩‍💻 </h1><br/>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
 </div>
 
+<br>
+<br>
+<br>
 
 <div>
 <a href="https://velog.io/@dylee95"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=black&link=https://velog.io/@dylee95"/>&nbsp</a> 
