@@ -2,6 +2,7 @@
 <p><strong>I'm currently studying development 👩‍💻 </strong></p>
 <br>
 <br>
+
 ## 📚 Tech Stack 📚
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
